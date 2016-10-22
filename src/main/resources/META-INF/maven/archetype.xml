@@ -1,0 +1,4 @@
+<archetype>
+    <id>commons-maven-archetype</id>
+    <allowPartial>true</allowPartial>
+</archetype>
