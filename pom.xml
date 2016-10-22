@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.techpro</groupId>
     <artifactId>commons-maven-archetype</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
@@ -12,14 +12,5 @@
         <url>https://github.com/raghav-a/commons-maven-archetype</url>
         <tag>HEAD</tag>
     </scm>
-
-    <distributionManagement>
-        <repository>
-            <id>techpro</id>
-            <name>Tech Pro Repository</name>
-            <url>file:/Users/raghav.ag/.m2/riva</url>
-        </repository>
-    </distributionManagement>
-
 
 </project>
